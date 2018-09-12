@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Azure/azure-devtestlab/master/schemas/2016-11-28/dtlArtifacts.json",
+  "title": "gewei test",
+  "description": "gewei test",
+  "iconUri": "",
+  "targetOsType": "Windows",
+  "parameters": {
+    "<parameterName>": {
+      "type": "",
+      "displayName": "",
+      "description": ""
+    }
+  },
+  "runCommand": {
+    "commandToExecute": "cls"
+  }
+}
